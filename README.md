@@ -10,7 +10,8 @@ You need to have previously installed Java:
 To start the application clone the repository or download the zip file. 
 
 ## With Netbeans
-You just need to open the directory as a project and run it :) That's all.
+You just need to open the directory as a project and run it :) 
+That's all.
 
 ##Without Netbeans
 ###Windows users
@@ -18,7 +19,9 @@ You just need to open the directory as a project and run it :) That's all.
 2. cd to the directory where are the program files
 3. Enter /src directory
 4. Run file Directory Reader with the command (class file is already compiled):
-    java DirectoryReader path
+
+`java DirectoryReader path`
+
 If no path is set you will get a message to set the path
 
 
@@ -27,7 +30,9 @@ If no path is set you will get a message to set the path
 2. cd to the directory where are the program files
 3. Enter /src directory
 4. Run file Directory Reader:
-    java DirectoryReader path
+
+`java DirectoryReader path`
+
 If no path is set you will get a message to set the path
 
 If you found any error please feel free to open an issue thread.
