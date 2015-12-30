@@ -22,7 +22,8 @@ That's all.
 
 `java DirectoryReader path`
 
-If no path is set you will get a message to set the path
+_If no path is set you will get a message to set the path_
+
 
 
 ###Linux users
@@ -33,7 +34,9 @@ If no path is set you will get a message to set the path
 
 `java DirectoryReader path`
 
-If no path is set you will get a message to set the path
+_If no path is set you will get a message to set the path_
+
+
 
 If you found any error please feel free to open an issue thread.
 
