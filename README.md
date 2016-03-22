@@ -1,4 +1,6 @@
 # Duplicated-Directories
+[![Build Status](https://travis-ci.org/yamilelias/Duplicated-Directories.svg?branch=master)](https://travis-ci.org/yamilelias/Duplicated-Directories)
+
 A Java application that search for duplicated directories in the Path given. This application use threads to develop the process.
 
 ##Pre-requisites
